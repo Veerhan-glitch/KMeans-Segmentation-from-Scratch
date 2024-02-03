@@ -1,6 +1,6 @@
-# k-Means Image Segmentation from Scratch
+# k-Means Image Clustering from Scratch
 
-This project has implemented k Means clustering algorithm for segmenting an image from scratch.
+This project has implemented k-Means algorithm for clustering an image from scratch.
 
 ## Table of Contents
 
