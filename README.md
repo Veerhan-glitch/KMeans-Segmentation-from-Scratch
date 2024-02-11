@@ -1,11 +1,15 @@
-# k-Means Image Clustering from Scratch
+<p align="center">
+  <img src="https://github.com/surtecha/ClusterCraft/assets/91011302/3d44825a-08d7-4488-bca7-b8a9e33b65ef" alt="ClusterCraft logo" width="200" height="200"/>
+</p>
+
+<h1 align="center">ClusterCraft</h1>
 
 This project has implemented k-Means algorithm for clustering an image from scratch.
 
 ## Table of Contents
 
-- [What is k-means clustering algorithm and how does it work?](#what-is-kmeans-clustering-algorithm-and-how-does-it-work)
-    - [It works by](#it-works-by)
+- [What is k-Means clustering algorithm and how does it work?](#what-is-kmeans-clustering-algorithm-and-how-does-it-work?)
+    - [Working](#working)
 - [Algorithm Implementation](#algorithm-implementation)
     - [Initialization](#initialization)
     - [Assignment](#assignment)
@@ -17,7 +21,7 @@ This project has implemented k-Means algorithm for clustering an image from scra
 - [How to use](#how-to-use)
 - [Contributing](#contributing)
 
-## What is k Means clustering algorithm and how does it work?
+## What is kMeans clustering algorithm and how does it work?
 K-Means clustering is a popular unsupervised machine learning algorithm used for data segmentation and clustering. It is primarily used to group data points into clusters based on their similarity or proximity.
 
 ### Example:
@@ -42,7 +46,7 @@ K-Means clustering is a popular unsupervised machine learning algorithm used for
 
 
 
-### It works by:
+### Working:
 
 - First starting with *k* initial cluster centroids (representative points). (Initialization step)
 - Assign each data point to the nearest centroid, forming clusters. (Assignment step)
