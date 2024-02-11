@@ -1,6 +1,6 @@
-# Contributing to the K-Means Algorithm Project
+# Contributing to the ClusterCraft Project
 
-Thank you for considering contributing to the K-Means Algorithm Project! Your contributions help improve and enhance this project.
+Thank you for considering contributing to the ClusterCraft Project! Your contributions help improve and enhance this project.
 
 ## Table of Contents
 
@@ -68,7 +68,7 @@ Spammy or invalid contributions will not be tolerated. We take the quality of ou
 
 If you have any questions or need further assistance, feel free to reach out to the project maintainer:
 
-- Email: challasuryateja29@gmail.com
-- GitHub Issues: [Project Issues](https://github.com/suryateja-challa/KMeans-Segmentation-from-Scratch/issues)
+- Email: suryatejachalla.dev@gmail.com
+- GitHub Issues: [Project Issues](https://github.com/surtecha/ClusterCraft/issues)
 
 We appreciate your contributions and look forward to your involvement in making this project better!
